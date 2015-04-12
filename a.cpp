@@ -1,0 +1,7 @@
+class Aardvaark {
+
+Aardvaark{}
+
+~Aardvaark{}
+
+}
